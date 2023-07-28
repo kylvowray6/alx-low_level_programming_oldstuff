@@ -2,13 +2,13 @@
 #define LISTS_H
 
 /**
- * struct list_s - singly linked list
- * @str: string - (malloc'ed string)
- * @len: length of the string
- * @next: points to the next node
+ * singly linked
+ * @str: string 
+ * @len: length 
+ * @next: points
  *
- * Description: singly linked list node structure
- * for Holberton project
+ * Description: singly and node 
+ * singly hoberton  project
  */
 typedef struct list_s
 {
